@@ -1,6 +1,14 @@
 # Little Lemon Menu
 This is the app to view the menu at Little Lemon restaurant. Project done during the Meta iOS Developer course
 
+## Techs
+
+- SwiftUI
+- CoreData
+- Combine
+
+## 
+
 ![Gif](https://user-images.githubusercontent.com/93353925/213902710-c49add73-a3b8-4a75-bb78-0f6b74a736db.gif)
 &emsp;
 <img src="https://user-images.githubusercontent.com/93353925/213902836-ae7051b9-3d79-4060-adcd-243724bc0b41.png" width="300">
